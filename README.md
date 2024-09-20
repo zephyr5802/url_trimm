@@ -103,9 +103,6 @@ We welcome contributions to make this project even better! To contribute, follow
 
 5. Open a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
